@@ -1,0 +1,79 @@
+{
+  "name": "Bug report",
+  "description": "Report an installation, connection or gameplay problem.",
+  "title": "[Bug] ",
+  "labels": [
+    "bug"
+  ],
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Check known issues first. Remove IP addresses, room codes and personal paths from attachments. Do not upload game files."
+      }
+    },
+    {
+      "type": "input",
+      "id": "versions",
+      "attributes": {
+        "label": "Store, game build and mod version",
+        "placeholder": "Steam or Epic / game file version / mod 0.2.1"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "role",
+      "attributes": {
+        "label": "Your role",
+        "options": [
+          "Host",
+          "Guest",
+          "Installer / not connected"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "players",
+      "attributes": {
+        "label": "Player count and connection method",
+        "placeholder": "2 players / Radmin VPN"
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "steps",
+      "attributes": {
+        "label": "Steps to reproduce",
+        "description": "List the actions that lead to the issue."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "behavior",
+      "attributes": {
+        "label": "Expected and actual behavior"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "evidence",
+      "attributes": {
+        "label": "Screenshot, recording or sanitized log",
+        "description": "Optional. For compatibility reports, include the executable file version and SHA-256; do not upload the executable."
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.sav
+*.log
+source/
+src/
+work/
+.env
+.env.*
+Thumbs.db
+.DS_Store

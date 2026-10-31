@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">EVO Outlast Co-op</title><desc id="desc">EVO / EVO-TM. Four-player experimental co-op for Outlast. Windows x64, Radmin VPN.</desc>
+<rect width="1280" height="400" fill="#0c120f"/>
+<path d="M32 85V32h80M1168 32h80v53M32 315v53h80M1168 368h80v-53" stroke="#778b69" stroke-width="2" fill="none"/>
+<path d="M64 306h1152" stroke="#344538"/>
+<text x="66" y="81" font-family="monospace" font-size="15" letter-spacing="4" fill="#9eb28d">EVO / EVO-TM</text>
+<text x="64" y="171" font-family="monospace" font-size="74" font-weight="bold" letter-spacing="-3" fill="#e1e6d6">OUTLAST</text>
+<text x="64" y="252" font-family="monospace" font-size="74" font-weight="bold" letter-spacing="12" fill="#a4bb8c">CO-OP</text>
+<text x="1212" y="81" text-anchor="end" font-family="monospace" font-size="15" letter-spacing="3" fill="#9eb28d">EXPERIMENTAL / 0.2.1</text>
+<text x="1212" y="184" text-anchor="end" font-family="monospace" font-size="54" fill="#e1e6d6">01—04</text>
+<text x="1212" y="216" text-anchor="end" font-family="monospace" font-size="15" letter-spacing="3" fill="#9eb28d">PLAYERS</text>
+<text x="66" y="343" font-family="monospace" font-size="14" letter-spacing="2" fill="#b2bfa5">WINDOWS x64</text>
+<text x="390" y="343" font-family="monospace" font-size="14" letter-spacing="2" fill="#b2bfa5">RADMIN VPN</text>
+<text x="1212" y="343" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="2" fill="#b2bfa5">F9 / IN-GAME MENU</text>
+</svg>
